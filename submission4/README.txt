@@ -9,7 +9,7 @@ Rice Leaf Disease Detection Using Covolutional Neural Network Architecture with 
 
 
 Paper submission date (to workshop/conference):
-5 May 2022
+6 May 2022
 
 Paper submission ID: (received) from conference/workshop
 13
