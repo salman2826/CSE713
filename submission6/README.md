@@ -21,14 +21,14 @@
 
 ## Activity in slack:
 ## Live Discussions: 
-https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1644850487939709
+https://bucse713spring2022.slack.com/archives/C030M3AQ39U/p1645629436794149
 
 ## Extra Credit Bonus Section Slack:
-https://bucse712spring2022.slack.com/archives/C030G9964D7/p1652166866833999
-https://bucse712spring2022.slack.com/archives/C030G9964D7/p1652167077878379
-https://bucse712spring2022.slack.com/archives/C030G9964D7/p1652167086211689
-https://bucse712spring2022.slack.com/archives/C030G9964D7/p1652167096320099
-https://bucse712spring2022.slack.com/archives/C030G9964D7/p1652167106266189
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652166851452559
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652167451083009
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652167477905569
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652167487684119
+https://bucse713spring2022.slack.com/archives/C0315N6QZ8R/p1652167537508259
 
 Submitter:
 A.K.M. Salman Hosain  
